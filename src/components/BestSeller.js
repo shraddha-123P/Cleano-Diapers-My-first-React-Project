@@ -1,30 +1,24 @@
-import { CDN_URL, SRC_URL } from "../utils/constants";
+const BestSeller = ({ resData }) => {
 
-
-const BestSeller = (props) => {
-  const { resData } = props;
-
-  const {
-    src,
-    title,
-    price,
-    
-  } = resData?.products;
+  const { title, images, variants } = resData;
 
   return (
     <div className="dia-card">
+
       <img
         className="dia-logo"
-        alt="dia-logo"
-        src={
-          SRC_URL+
-          images.src
-        }
+        alt="diaper"
+        src={images[0]?.src}
       />
+
       <h3>{title}</h3>
-      <h4>{price}</h4>
-     
+
+      <h4>₹ {variants[0]?.price}</h4>
+
+      <button className="cart-btn">ADD TO CART</button>
+
     </div>
   );
 };
+
 export default BestSeller;

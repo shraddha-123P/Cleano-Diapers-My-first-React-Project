@@ -1,6 +1,6 @@
 3610
-85C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist134155653846215193 1
-90C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\index.css134147527821414550 0
+85C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist134157041883111934 1
+90C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\index.css134157045352758901 0
 136C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\_\_object_spread\package.json134147561343768943 0
 145C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\subresource-integrity.js134147561438132506 0
 148C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two134147561336800733 1
@@ -11,7 +11,7 @@
 91C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\index.html134154552252354810 0
 158C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json134147561331127524 0
 125C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\watcher\src\unix\fts.cc134147561177621761 0
-91C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\App.js134155651779160078 0
+91C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\App.js134157015382843114 0
 114C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\react\jsx-runtime.js134153710745070224 0
 101C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\globals134147561138837200 1
 102C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\escalade134147561166293645 1
@@ -32,7 +32,7 @@
 143C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c134147561293677174 0
 143C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\_\_class_static_private_field_update134147561334747903 1
 125C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\regions\CR.js134147561299593363 0
-105C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\components\Header.js134155651297722871 0
+105C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\components\Header.js134157037357552635 0
 161C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages134147561455925255 0
 142C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\css-grid-animation.js134147561320760284 0
 140C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\publickeypinning.js134147561425455514 0
@@ -62,7 +62,7 @@
 142C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb134147561308606359 1
 126C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\_\_write_only_error134147561361211899 1
 108C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\clone\clone.js134147561132445858 0
-103C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\utils\constants.js134155650512772535 0
+103C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\utils\constants.js134156981951289183 0
 110C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\globals\index.js134147561117245515 0
 102C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\utils\mockData.js134154550050035953 0
 139C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\arrow-functions.js134147561226420328 0
@@ -75,7 +75,7 @@
 140C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\speech-synthesis.js134147561429843992 0
 150C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json134147561314925429 0
 140C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\error-overlay\src\components\Header.js134147561194691181 0
-109C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\components\BestSeller.js134155652938211005 0
+109C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\components\BestSeller.js134157028148209150 0
 138C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64134147561138227831 1
 114C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\nullthrows\README.md134147561137780737 0
 112C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\chalk\package.json134147561139012207 0
@@ -85,7 +85,7 @@
 140C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\package-manager\src\JSONParseStream.js134147561214818430 0
 100C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\parcel134147561178485827 1
 120C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\picomatch\lib\constants.js134147561118214001 0
-103C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\components\Body.js134155648452144795 0
+103C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\src\components\Body.js134156988954618510 0
 153C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134147561134209473 0
 142C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\css-color-function.js134147561305265038 0
 114C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\term-size\index.d.ts134147561169580345 0
@@ -1562,7 +1562,7 @@
 131C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs134147561266765236 0
 139C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\css-text-indent.js134147561359433732 0
 111C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\json5\lib\util.js134147561177441308 0
-117C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.9e4c6fd2.css.map134155653841153111 0
+117C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.9e4c6fd2.css.map134157041883111934 0
 142C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\esm\_possible_constructor_return.js134147561301634394 0
 133C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\_\_assert_this_initialized134147561312572712 1
 113C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\json5\dist\index.js134147561125889782 0
@@ -2205,7 +2205,7 @@
 139C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\_\_array_with_holes\package.json134147561312155982 0
 127C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\es5.js134147561373146581 0
 133C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\es6-class.js134147561373255333 0
-112C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.2c54e4d8.js134155653844733345 0
+112C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.2c54e4d8.js134157041504146998 0
 138C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\caniuse-lite\data\features\es6-generators.js134147561373255333 0
 115C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\.bin\browserslist.cmd134147561455925255 0
 136C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@swc\helpers\src\_ts_dispose_resources.mjs134147561372929859 0
@@ -3218,7 +3218,7 @@
 143C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js134147561174393049 0
 142C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js134147561217782572 0
 146C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js134147561169424109 0
-96C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\index.html134155653835835594 0
+96C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\index.html134157041504110740 0
 145C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js134147561216882996 0
 151C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js134147561224432427 0
 150C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js134147561226263978 0
@@ -3607,5 +3607,5 @@
 109C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\.bin\semver.ps1134147561455925255 0
 125C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\.bin\update-browserslist-db.cmd134147561455925255 0
 125C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\node_modules\.bin\update-browserslist-db.ps1134147561455925255 0
-116C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.2c54e4d8.js.map134155653846066504 0
-113C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.9e4c6fd2.css134155653840996885 0
+116C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.2c54e4d8.js.map134157041504666649 0
+113C:\Users\Lenovo\Desktop\js jan 2026\Small Websites\Final Projects\Cleano Diapers\dist\Cleano Diapers.9e4c6fd2.css134157041882951943 0

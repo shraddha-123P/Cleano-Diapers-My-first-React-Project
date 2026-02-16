@@ -737,27 +737,20 @@ const AppLayout = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "app",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                children: "Cleano Diapers"
-            }, void 0, false, {
-                fileName: "src/App.js",
-                lineNumber: 11,
-                columnNumber: 7
-            }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/App.js",
-                lineNumber: 12,
+                lineNumber: 10,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _bodyDefault.default), {}, void 0, false, {
                 fileName: "src/App.js",
-                lineNumber: 13,
+                lineNumber: 11,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/App.js",
-        lineNumber: 10,
+        lineNumber: 9,
         columnNumber: 5
     }, undefined);
 };
@@ -765,7 +758,7 @@ _c = AppLayout;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
     fileName: "src/App.js",
-    lineNumber: 19,
+    lineNumber: 17,
     columnNumber: 13
 }, undefined));
 var _c;
@@ -17448,16 +17441,25 @@ const Header = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "logo-container",
-                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                    className: "logo",
-                    src: (0, _constants.LOGO_URL),
-                    alt: "logo"
-                }, void 0, false, {
-                    fileName: "src/components/Header.js",
-                    lineNumber: 7,
-                    columnNumber: 9
-                }, undefined)
-            }, void 0, false, {
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                        children: "Cleano Diapers"
+                    }, void 0, false, {
+                        fileName: "src/components/Header.js",
+                        lineNumber: 7,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                        className: "logo",
+                        src: (0, _constants.LOGO_URL),
+                        alt: "logo"
+                    }, void 0, false, {
+                        fileName: "src/components/Header.js",
+                        lineNumber: 8,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
                 fileName: "src/components/Header.js",
                 lineNumber: 6,
                 columnNumber: 7
@@ -17467,42 +17469,42 @@ const Header = ()=>{
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            children: "Home"
+                            children: "Home\uD83C\uDFE0"
+                        }, void 0, false, {
+                            fileName: "src/components/Header.js",
+                            lineNumber: 12,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                            children: "About Us\uD83D\uDC65"
+                        }, void 0, false, {
+                            fileName: "src/components/Header.js",
+                            lineNumber: 13,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                            children: "Contact Us\uD83D\uDCDE"
+                        }, void 0, false, {
+                            fileName: "src/components/Header.js",
+                            lineNumber: 14,
+                            columnNumber: 11
+                        }, undefined),
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                            children: "Cart\uD83D\uDED2"
                         }, void 0, false, {
                             fileName: "src/components/Header.js",
                             lineNumber: 15,
-                            columnNumber: 11
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            children: "About"
-                        }, void 0, false, {
-                            fileName: "src/components/Header.js",
-                            lineNumber: 16,
-                            columnNumber: 11
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            children: "Contact"
-                        }, void 0, false, {
-                            fileName: "src/components/Header.js",
-                            lineNumber: 17,
-                            columnNumber: 11
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                            children: "Cart"
-                        }, void 0, false, {
-                            fileName: "src/components/Header.js",
-                            lineNumber: 18,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/components/Header.js",
-                    lineNumber: 14,
+                    lineNumber: 11,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/components/Header.js",
-                lineNumber: 13,
+                lineNumber: 10,
                 columnNumber: 7
             }, undefined)
         ]
@@ -17526,9 +17528,7 @@ $RefreshReg$(_c, "Header");
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "LOGO_URL", ()=>LOGO_URL);
-parcelHelpers.export(exports, "SRC_URL", ()=>SRC_URL);
 const LOGO_URL = "https://assets.myntassets.com/w_412,q_30,dpr_3,fl_progressive,f_webp/assets/images/23687066/2023/6/20/1d5c03e4-2a7f-4e3b-b39f-f9c95c2c2f3b1687241246394VehicleReusableClothTrainingDiaperPanty-Multicolour1.jpg";
-const SRC_URL = "https://cdn.shopify.com/s/files";
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"jnFvT":[function(require,module,exports,__globalThis) {
 exports.interopDefault = function(a) {
@@ -19849,34 +19849,23 @@ try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _bestSeller = require("./BestSeller");
-var _bestSellerDefault = parcelHelpers.interopDefault(_bestSeller);
 var _mockData = require("../utils/mockData");
 var _mockDataDefault = parcelHelpers.interopDefault(_mockData);
+var _bestSeller = require("./BestSeller");
+var _bestSellerDefault = parcelHelpers.interopDefault(_bestSeller);
 const Body = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "body",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-            className: "filter",
-            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                className: "filter-btn",
-                onClick: ()=>{
-                    console.log("Button Clicked");
-                },
-                children: "Top Rated Restaurants"
-            }, void 0, false, {
+        className: "dia-container",
+        children: (0, _mockDataDefault.default).products.map((product)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _bestSellerDefault.default), {
+                resData: product
+            }, product.id, false, {
                 fileName: "src/components/Body.js",
-                lineNumber: 9,
-                columnNumber: 7
-            }, undefined)
-        }, void 0, false, {
-            fileName: "src/components/Body.js",
-            lineNumber: 8,
-            columnNumber: 7
-        }, undefined)
+                lineNumber: 8,
+                columnNumber: 9
+            }, undefined))
     }, void 0, false, {
         fileName: "src/components/Body.js",
-        lineNumber: 7,
+        lineNumber: 6,
         columnNumber: 5
     }, undefined);
 };
@@ -19901,40 +19890,49 @@ try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _constants = require("../utils/constants");
-const BestSeller = (props)=>{
-    const { resData } = props;
-    const { src, title, price } = resData?.products;
+const BestSeller = ({ resData })=>{
+    const { title, images, variants } = resData;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "dia-card",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "dia-logo",
-                alt: "dia-logo",
-                src: (0, _constants.SRC_URL) + images.src
+                alt: "diaper",
+                src: images[0]?.src
             }, void 0, false, {
                 fileName: "src/components/BestSeller.js",
-                lineNumber: 16,
+                lineNumber: 8,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
                 children: title
             }, void 0, false, {
                 fileName: "src/components/BestSeller.js",
-                lineNumber: 24,
+                lineNumber: 14,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
-                children: price
+                children: [
+                    "\u20B9 ",
+                    variants[0]?.price
+                ]
+            }, void 0, true, {
+                fileName: "src/components/BestSeller.js",
+                lineNumber: 16,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                className: "cart-btn",
+                children: "ADD TO CART"
             }, void 0, false, {
                 fileName: "src/components/BestSeller.js",
-                lineNumber: 25,
+                lineNumber: 18,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/components/BestSeller.js",
-        lineNumber: 15,
+        lineNumber: 6,
         columnNumber: 5
     }, undefined);
 };
@@ -19948,7 +19946,7 @@ $RefreshReg$(_c, "BestSeller");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","../utils/constants":"dIVBf","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"4sSQA":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"4sSQA":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 const productList = {

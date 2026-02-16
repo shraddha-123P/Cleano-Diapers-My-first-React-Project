@@ -1,0 +1,40 @@
+.dia-container{
+  display:flex;
+  flex-wrap:wrap;
+  gap:20px;
+}
+
+.dia-card{
+  width:220px;
+  padding:10px;
+  border:1px solid #eee;
+  border-radius:10px;
+}
+
+.dia-logo{
+  width:100%;
+}
+
+.cart-btn{
+  background:#a2dcd5;
+  border:1px solid black;
+  border-radius: 5px;
+  border-width:1px;
+  padding:10px;
+  width:100%;
+  margin-top:10px;
+}
+.logo {
+width:50px;
+height: 50px;
+display: flex;
+}
+
+.nav-items ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.logo-container{
+    display: flex;
+}

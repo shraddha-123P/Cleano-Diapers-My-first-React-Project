@@ -1,2 +1,2 @@
-export const LOGO_URL = "https://assets.myntassets.com/w_412,q_30,dpr_3,fl_progressive,f_webp/assets/images/23687066/2023/6/20/1d5c03e4-2a7f-4e3b-b39f-f9c95c2c2f3b1687241246394VehicleReusableClothTrainingDiaperPanty-Multicolour1.jpg"
-export const SRC_URL = "https://cdn.shopify.com/s/files"
+export const LOGO_URL =
+"https://assets.myntassets.com/w_412,q_30,dpr_3,fl_progressive,f_webp/assets/images/23687066/2023/6/20/1d5c03e4-2a7f-4e3b-b39f-f9c95c2c2f3b1687241246394VehicleReusableClothTrainingDiaperPanty-Multicolour1.jpg";
