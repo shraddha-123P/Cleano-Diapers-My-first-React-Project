@@ -1,6 +1,6 @@
-const BestSeller = ({ resData }) => {
+const BestSeller = ({ productData }) => {
 
-  const { title, images, variants } = resData;
+  const { title, images, variants } = productData;
 
   return (
     <div className="dia-card">
