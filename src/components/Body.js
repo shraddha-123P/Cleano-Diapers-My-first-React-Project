@@ -12,9 +12,7 @@ const Body = () => {
       onClick={()=> {
           const filteredList = ListOfDia.filter(
            (product) => 
-            product.variants &&
-            product.variants.length > 0 &&
-            Number (product.variants[0].price)>700
+           Number(product.variants[0]?.price) > 1000
           ); 
           setLisTOfDia(filteredList);
           }} 
